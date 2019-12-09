@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">JorgeRamos-examenPrimerParcial</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasenia">Clave</string>
+    <string name="btIngresar">Ingresar</string>
+    <string name="nombre">Nombre</string>
+    <string name="monto">Monto Inicial</string>
+    <string name="pago">Pago Mensual</string>
+    <string name="btGuardar">GUARDAR</string>
+    <string name="pregunta1">¿Por qué eligió este centro educativo?</string>
+    <string name="pregunta2">¿Qué deportes practica?</string>
+    <string name="pregunta3">Está interesado en aprender otro idioma aparte de inglés.</string>
+    <string name="rbsi">Si</string>
+    <string name="rbno">No</string>
+    <string name="cbbasket">Basket</string>
+    <string name="cbfutbol">Futbol</string>
+    <string name="cbtenis">Tenis</string>
+    <string name="btFinalizarEncuesta">Finalizar Encuesta</string>
+    <string name="usuarioR">Usuario conectado</string>
+    <string name="nombreER"> Nombre del estudiante</string>
+    <string name="resumenEncuesta">Respuesta de las preguntas</string>
+</resources>
